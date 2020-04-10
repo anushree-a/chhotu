@@ -1,0 +1,10 @@
+{
+    "name": "chhotu",
+    "version": "1.0",
+    "description": "Shorten those long URLs!",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "urlForm.html",
+        "default_icon": "chhotu.png"
+    }
+}
